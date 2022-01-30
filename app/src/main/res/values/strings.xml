@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News API.org</string>
+    <string name="just_title_description">just title description</string>
+    <string name="date_and_time">Date And Time</string>
+    <string name="desc">Desc</string>
+    <string name="d">D</string>
+</resources>
